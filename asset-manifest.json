@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//ahmadw72.github.io/wva_test_minting_dapp/static/css/main.7f12a08a.css",
-    "main.js": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/main.aba9777c.js",
+    "main.js": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/main.f7608a23.js",
     "static/js/787.1794d52a.chunk.js": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/787.1794d52a.chunk.js",
     "static/media/Hangyaku-gxGG5.ttf": "//ahmadw72.github.io/wva_test_minting_dapp/static/media/Hangyaku-gxGG5.bec80eeb1690c9fc1ae9.ttf",
     "static/media/Home-art_1.webp": "//ahmadw72.github.io/wva_test_minting_dapp/static/media/Home-art_1.5cffead52068c0ba8f72.webp",
@@ -10,11 +10,11 @@
     "static/media/Avontuurgardegoshikkutai-5Doa.ttf": "//ahmadw72.github.io/wva_test_minting_dapp/static/media/Avontuurgardegoshikkutai-5Doa.b3f67483e7309f8ce32b.ttf",
     "index.html": "//ahmadw72.github.io/wva_test_minting_dapp/index.html",
     "main.7f12a08a.css.map": "//ahmadw72.github.io/wva_test_minting_dapp/static/css/main.7f12a08a.css.map",
-    "main.aba9777c.js.map": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/main.aba9777c.js.map",
+    "main.f7608a23.js.map": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/main.f7608a23.js.map",
     "787.1794d52a.chunk.js.map": "//ahmadw72.github.io/wva_test_minting_dapp/static/js/787.1794d52a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f12a08a.css",
-    "static/js/main.aba9777c.js"
+    "static/js/main.f7608a23.js"
   ]
 }
