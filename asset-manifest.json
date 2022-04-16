@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wva_test_minting_dapp/static/css/main.29ea042e.css",
-    "main.js": "/wva_test_minting_dapp/static/js/main.d41feedc.js",
+    "main.js": "/wva_test_minting_dapp/static/js/main.cd6d87f9.js",
     "static/js/787.1794d52a.chunk.js": "/wva_test_minting_dapp/static/js/787.1794d52a.chunk.js",
     "static/media/Hangyaku-gxGG5.ttf": "/wva_test_minting_dapp/static/media/Hangyaku-gxGG5.bec80eeb1690c9fc1ae9.ttf",
     "static/media/Home-art_1.webp": "/wva_test_minting_dapp/static/media/Home-art_1.5cffead52068c0ba8f72.webp",
@@ -10,11 +10,11 @@
     "static/media/Avontuurgardegoshikkutai-5Doa.ttf": "/wva_test_minting_dapp/static/media/Avontuurgardegoshikkutai-5Doa.b3f67483e7309f8ce32b.ttf",
     "index.html": "/wva_test_minting_dapp/index.html",
     "main.29ea042e.css.map": "/wva_test_minting_dapp/static/css/main.29ea042e.css.map",
-    "main.d41feedc.js.map": "/wva_test_minting_dapp/static/js/main.d41feedc.js.map",
+    "main.cd6d87f9.js.map": "/wva_test_minting_dapp/static/js/main.cd6d87f9.js.map",
     "787.1794d52a.chunk.js.map": "/wva_test_minting_dapp/static/js/787.1794d52a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29ea042e.css",
-    "static/js/main.d41feedc.js"
+    "static/js/main.cd6d87f9.js"
   ]
 }
